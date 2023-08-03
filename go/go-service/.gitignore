@@ -1,0 +1,5 @@
+vendor
+*.prof
+*.cov
+*.out
+test/new_config.yml

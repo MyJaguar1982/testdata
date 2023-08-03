@@ -1,0 +1,9 @@
+cache:
+  redis:
+    addresses:
+      server: localhost:6379
+sql:
+  pg:
+    url: postgres://test:test@localhost:5432/test?sslmode=disable
+transport:
+  port: -1
